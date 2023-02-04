@@ -19,6 +19,10 @@
 <br />
 
 
+### 🤝 Connect with me
+
+<a href="https://linkedin.com/in/praffulgupta11" target="_blank"><img align="left" alt="Linkedin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+
 <!-- ### 📊 Stats
 
 ![Prafful's GitHub stats](https://github-readme-stats.vercel.app/api?username=PraffulGupta-25811&show_icons=true&theme=transparent) -->
