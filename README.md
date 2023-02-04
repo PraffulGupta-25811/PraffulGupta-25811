@@ -4,4 +4,4 @@
 
 ### 📊 Stats
 
-![Prafful's GitHub stats](https://github-readme-stats.vercel.app/api?username=PraffulGupta-25811&show_icons=true&bg_color=00000000)
+![Prafful's GitHub stats](https://github-readme-stats.vercel.app/api?username=PraffulGupta-25811&show_icons=true&theme=transparent)
