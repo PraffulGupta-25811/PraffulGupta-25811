@@ -17,12 +17,17 @@
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
+<br />
 
-### 📊 Stats
+<h3 align="left">📊 Statistics 📊</h3>
 
-![Prafful's GitHub stats](https://github-readme-stats.vercel.app/api?username=PraffulGupta-25811&&bg_color=ffffff00&text_color=0055ff)
+<h3 align="left">
+ <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=PraffulGupta-25811&theme=dark&background=FD2D2D00&hide_border=true&currStreakNum=DD0000&sideLabels=DD2727&sideNums=1CDDAD" alt="PraffulGupta"/>
+</h3>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=PraffulGupta-25811&&bg_color=ffffff00&text_color=0055ff&border_radius=4.5)
+
+[![Prafful's github stats](https://github-readme-stats.vercel.app/api?username=PraffulGupta-25811&count_private=true&show_icon=true&card_width=400&bg_color=00000000&title_color=FA8C00&text_color=949CA5&show_icons=true&hide_border=true&icon_color=CC5160)](https://github-readme-stats.vercel.app/api?username=PraffulGupta-25811&count_private=true&show_icon=true&card_width=400&bg_color=80,bdc3c7,2c3e50&title_color=fff&text_color=fff&icon_color=58A6FF)
+
 
 ### 🤝 Connect with me
 
