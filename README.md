@@ -20,9 +20,9 @@
 
 ### 📊 Stats
 
-![Prafful's GitHub stats](https://github-readme-stats.vercel.app/api?username=PraffulGupta-25811&show_icons=true&theme=gruvbox)
+![Prafful's GitHub stats](https://github-readme-stats.vercel.app/api?username=PraffulGupta-25811&&bg_color=ffffff00&text_color=0055ff)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=PraffulGupta-25811&theme=gruvbox&border_radius=4.5)
+![GitHub Streak](https://streak-stats.demolab.com?user=PraffulGupta-25811&&bg_color=ffffff00&text_color=0055ff&border_radius=4.5)
 
 ### 🤝 Connect with me
 
