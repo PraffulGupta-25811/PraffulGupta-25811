@@ -1,6 +1,7 @@
 # 🏄‍♂️ Prafful Gupta
 
 **`Innovate fearlessly, own your outcomes, and think big 💫`**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PraffulGupta-25811&label=Profile%20views&color=0e75b6&style=flat" alt="Prafful Gupta" /> </p>
 
 ### 🧰 Languages and Tools
 
